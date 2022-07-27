@@ -1,7 +1,9 @@
-### Hi there, I'm Naman 👋
+### Hi, I'm Naman.
 
-I love solving problems. Throughout my educational career, I've been driven by my intellectual curiosity to find innovative solutions to pressing problems. Whether it's [providing quality education to the underprivileged](https://sandhi-the-connect.github.io/) or [leveraging ML to predict rare diseases](https://denotia.herokuapp.com/), I've been able to quickly uncover pain points and identify strategic solutions.
+I'm a sophomore at UCLA studying computer science and math.
 
-Currently, I'm seizing incredible opportunities with an insanely gifted group of people at the AI divison of the [Association of Computing Machinery](https://www.uclaacm.com/) at UCLA. I'm a lifelong learner obsessed with all things technology - so if you ever want to bounce ideas off of me, shoot me a message!
+I teach the underprivileged at [Sandhi](https://sandhi-the-connect.github.io/) and explore machine learning at [ACM AI](https://www.uclaacm.com/). When I'm not teaching or exploring, I usually end up playing chess or reading about technology or finance.
+
+This summer I'm headed back to India, where I'll be building tech for social good at [Ericsson](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india) and travelling. 
 
 Contact Me: [Website](https://namanmodani.com/) • [Email](modani@ucla.edu) • [LinkedIn](https://www.linkedin.com/in/namanmodani/) • [Instagram](https://www.instagram.com/naman_modani/) • [Telegram](https://t.me/namanmodani) 
