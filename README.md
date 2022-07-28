@@ -6,4 +6,4 @@ I teach the underprivileged at [Sandhi](https://sandhi-the-connect.github.io/) a
 
 This summer I'm headed back to India, where I'll be building tech for social good at [Ericsson](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india) and travelling. 
 
-Contact Me: [Website](https://namanmodani.com/) • [Email](modani@ucla.edu) • [LinkedIn](https://www.linkedin.com/in/namanmodani/) • [Instagram](https://www.instagram.com/naman_modani/) • [Telegram](https://t.me/namanmodani) 
+Contact Me: [Website](https://namanmodani.com/) • [Email](modani@ucla.edu) • [LinkedIn](https://www.linkedin.com/in/namanmodani/) • [Instagram](https://www.instagram.com/naman_modani/)
