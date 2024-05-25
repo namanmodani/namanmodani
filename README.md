@@ -1,9 +1,9 @@
 ### Hi, I'm Naman.
 
-I'm a junior at UCLA studying computer science and tech management.
+I'm passionate about shaping and shipping meaningful products.
 
-I enjoy engineering, product, and finance. This past summer, I was a Technical PM at [Slack](https://slack.com/) in the Bay, where I managed vision and delivery of some exciting data engineering tools.
+I spend most of my time learning. I'm curious about most things (I'm glad I'm not a cat), especially engineering, product, and finance. A big chunk of this learning happens at UCLA.
 
-When I'm not working, I like to jump off cliffs, camp, drive, dance, and listen to classic rock. I also make horrible puns from time to time.
+Lately, I've been focused on spending my time intentionally. I like to jump off cliffs, camp, drive, dance, and listen to classic rock. I love poker, Porsches, and puns.
 
-More about me [here](https://namanmodani.com/).
+More about me [here](https://namanmodani.github.io/).
