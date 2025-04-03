@@ -2,8 +2,8 @@
 
 I'm passionate about shaping and shipping meaningful products.
 
-I spend most of my time learning. I'm curious about most things (I'm glad I'm not a cat), especially engineering, product, and finance. A big chunk of this learning happens at UCLA.
+I'm curious about most things, especially product, engineering, and philosophy. A big chunk of my learning happens at UCLA.
 
-Lately, I've been focused on spending my time intentionally. I like to leap off cliffs, camp, and drive. I dance (badly), listen to old music, play poker, and watch sports.
+I split my time between LA and SF, depending on where life, work, and good people take me. Lately, I've been learning how to (1) spend my time intentionally and (2) build agentic AI.
 
 More about me [here](https://namanmodani.github.io/).
