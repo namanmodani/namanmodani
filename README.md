@@ -1,9 +1,9 @@
 ### Hi, I'm Naman.
 
-I'm passionate about shaping and shipping meaningful products.
+I shape products and spend time thinking about how people actually use them.
 
-I'm curious about most things, especially product, engineering, and philosophy. A big chunk of my learning happens at UCLA.
+I grew up in Gurgaon, studied computer science at UCLA, and now call San Francisco home. I'm a fan of Porsche, Dostoyevsky, the San Antonio Spurs, road trips, and good conversation.
 
-I split my time between LA and SF, depending on where life, work, and good people take me. Lately, I've been learning how to (1) spend my time intentionally and (2) build agentic AI.
+Generally optimistic, selectively skeptical, and rarely surprised by edge cases.
 
 More about me [here](https://namanmodani.github.io/).
